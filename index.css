@@ -1,0 +1,28 @@
+.likes {
+   color: palevioletred;
+   border: 2px solid red;
+}
+#likes-1 {
+  color: yellow;
+  border: 2px solid green;
+}
+.dislikes {
+  color:aquamarine;
+  border: 2px solid brown;
+}
+#dislikes-1 {
+  color: blueviolet;
+  border: 2px solid gray;
+}
+#main1 {
+   color: black;
+}
+.main2 {
+   color: bisque;
+}
+#main3 {
+   color:yellowgreen;
+}
+.main4{
+   color: pink;
+}
